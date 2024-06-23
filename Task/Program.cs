@@ -1,9 +1,10 @@
 ﻿//thread wait 
 Console.WriteLine("Before task starting.");
+Console.WriteLine("Main thread Id {0}",Thread.CurrentThread.ManagedThreadId);
 
 var task = Task.Run(() =>
 {
-
+    Console.WriteLine("Inside task thread Id {0}", Thread.CurrentThread.ManagedThreadId);
     for (int i = 0; i < 4; i++)
     {
         Console.WriteLine("Iteration number {0}", i);
@@ -31,4 +32,4 @@ Task taskConstinuation = Task.Run(() => LengthCalculation("First Task starting")
         Console.WriteLine("second task startig");
     });
 
-taskConstinuation.Start();
+

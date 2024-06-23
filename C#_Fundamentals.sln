@@ -31,33 +31,35 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LINQ", "LINQ", "{90C12043-E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypesAndConversion", "DataTypesAndConversion\DataTypesAndConversion.csproj", "{4473A268-6B2E-428C-9AF2-99C9AABD9D71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariableAndDeclarations", "VariableAndDeclarations\VariableAndDeclarations.csproj", "{7ECD7EC2-D264-4A19-92BD-E1054E3C1EFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariableAndDeclarations", "VariableAndDeclarations\VariableAndDeclarations.csproj", "{7ECD7EC2-D264-4A19-92BD-E1054E3C1EFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{BDDA9B5F-E8CC-4078-A1E8-19346D55551B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array", "Array\Array.csproj", "{BDDA9B5F-E8CC-4078-A1E8-19346D55551B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsCollections", "GenericsCollections\GenericsCollections.csproj", "{E54AAE53-BA83-4D76-B41B-2B81B0F70A5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsCollections", "GenericsCollections\GenericsCollections.csproj", "{E54AAE53-BA83-4D76-B41B-2B81B0F70A5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonGenericsCollection", "NonGenericsCollection\NonGenericsCollection.csproj", "{CC552900-65F3-49A7-893C-D84DA78EA079}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NonGenericsCollection", "NonGenericsCollection\NonGenericsCollection.csproj", "{CC552900-65F3-49A7-893C-D84DA78EA079}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClass", "GenericClass\GenericClass.csproj", "{B93D2DE0-5031-40CB-82FB-9FAC7D347DDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericClass", "GenericClass\GenericClass.csproj", "{B93D2DE0-5031-40CB-82FB-9FAC7D347DDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queries", "Queries\Queries.csproj", "{50984B49-8691-446B-AFED-457BB4026A6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queries", "Queries\Queries.csproj", "{50984B49-8691-446B-AFED-457BB4026A6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "expressionsByMethod", "expressionsByMethod\expressionsByMethod.csproj", "{F5C07998-B4CE-47D5-AD74-90549DB5F764}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "expressionsByMethod", "expressionsByMethod\expressionsByMethod.csproj", "{F5C07998-B4CE-47D5-AD74-90549DB5F764}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{F00B39E4-5166-4976-99FB-E9D3FAB61463}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{F00B39E4-5166-4976-99FB-E9D3FAB61463}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{748DB9AE-41F8-4F6C-8972-19EDCF56E296}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{748DB9AE-41F8-4F6C-8972-19EDCF56E296}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{06EDD5FC-AED8-42A0-9511-AB90159064CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{06EDD5FC-AED8-42A0-9511-AB90159064CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch", "TryCatch\TryCatch.csproj", "{5B62F1D3-11B7-4FD3-B55B-F052C81EBBCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TryCatch", "TryCatch\TryCatch.csproj", "{5B62F1D3-11B7-4FD3-B55B-F052C81EBBCF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Directory&Files", "Directory&Files", "{ACA0712F-05D7-4CAC-8D47-C86F8E358637}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Directory", "Directory\Directory.csproj", "{B89CFDC4-F622-4845-B4D3-B9F2E0882C22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Directory", "Directory\Directory.csproj", "{B89CFDC4-F622-4845-B4D3-B9F2E0882C22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files", "Files\Files.csproj", "{054AB1B7-A28A-4B9B-9E39-110B54E553B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Files", "Files\Files.csproj", "{054AB1B7-A28A-4B9B-9E39-110B54E553B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stream", "Stream\Stream.csproj", "{F0D7E9BB-6930-47E6-871E-9C220EC599A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{054AB1B7-A28A-4B9B-9E39-110B54E553B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{054AB1B7-A28A-4B9B-9E39-110B54E553B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{054AB1B7-A28A-4B9B-9E39-110B54E553B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0D7E9BB-6930-47E6-871E-9C220EC599A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0D7E9BB-6930-47E6-871E-9C220EC599A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0D7E9BB-6930-47E6-871E-9C220EC599A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0D7E9BB-6930-47E6-871E-9C220EC599A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -170,6 +176,7 @@ Global
 		{06EDD5FC-AED8-42A0-9511-AB90159064CF} = {21F0B70D-7F40-45DA-BD2F-7C532ED3135E}
 		{B89CFDC4-F622-4845-B4D3-B9F2E0882C22} = {ACA0712F-05D7-4CAC-8D47-C86F8E358637}
 		{054AB1B7-A28A-4B9B-9E39-110B54E553B1} = {ACA0712F-05D7-4CAC-8D47-C86F8E358637}
+		{F0D7E9BB-6930-47E6-871E-9C220EC599A8} = {ACA0712F-05D7-4CAC-8D47-C86F8E358637}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8EABF633-ADA3-4546-B310-A4A4A24A8713}
