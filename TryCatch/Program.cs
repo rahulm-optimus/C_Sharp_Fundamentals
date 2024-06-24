@@ -28,6 +28,8 @@ namespace TryCatch
             //8   System.StackOverflowException
             //    Handles errors generated from stack overflow.
 
+            
+
             int number = 18;
 
             try

@@ -58,6 +58,9 @@
 
             GenericSortedList.Add("Onion", "Rings");
 
+            GenericSortedList.Add("Australia", "Cock");
+           
+
             foreach (KeyValuePair<string, string> kvp in GenericSortedList)
 
             {
@@ -77,6 +80,8 @@
             steak.Push("Medium");
 
             steak.Push("Well done");
+
+            steak.Pop();
 
             foreach (string s in steak)
 
@@ -98,6 +103,8 @@
             GenericQueue.Enqueue("Xavier");
 
             GenericQueue.Enqueue("Michael");
+
+            GenericQueue.Dequeue();
 
             foreach (string s in GenericQueue)
 
